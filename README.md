@@ -7,3 +7,4 @@
 - [x] Arrays
 - [x] Conditionals
 - [x] Loops
+- [x] Functions
