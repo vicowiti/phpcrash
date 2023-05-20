@@ -6,3 +6,4 @@
 - [x] Primitive data types
 - [x] Arrays
 - [x] Conditionals
+- [x] Loops
