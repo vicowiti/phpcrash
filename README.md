@@ -5,3 +5,4 @@
 - [x] Hello world
 - [x] Primitive data types
 - [x] Arrays
+- [x] Conditionals
