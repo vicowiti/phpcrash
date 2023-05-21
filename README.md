@@ -8,3 +8,5 @@
 - [x] Conditionals
 - [x] Loops
 - [x] Functions
+- [x] Array functions
+- [x] String functions
