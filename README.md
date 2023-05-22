@@ -13,3 +13,5 @@
 - [x] Superglobals intro
 - [x] GET and POST
 - [x] Sanitizing form inputs
+- [x] Cookies
+- [x] Sessions
