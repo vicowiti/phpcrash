@@ -10,3 +10,6 @@
 - [x] Functions
 - [x] Array functions
 - [x] String functions
+- [x] Superglobals intro
+- [x] GET and POST
+
