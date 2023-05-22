@@ -12,4 +12,4 @@
 - [x] String functions
 - [x] Superglobals intro
 - [x] GET and POST
-
+- [x] Sanitizing form inputs
