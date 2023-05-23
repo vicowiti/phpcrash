@@ -15,3 +15,4 @@
 - [x] Sanitizing form inputs
 - [x] Cookies
 - [x] Sessions
+- [x] File handling
