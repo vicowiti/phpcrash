@@ -18,3 +18,4 @@
 - [x] File handling
 - [x] File uploading
 - [x] Exceptions and errors
+- [x] OOP
