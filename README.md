@@ -16,3 +16,4 @@
 - [x] Cookies
 - [x] Sessions
 - [x] File handling
+- [x] File uploading
